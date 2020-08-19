@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ML-Agents/Examples/DroneSim/Scene.unity
+  isLoaded: 1
+  isActive: 1
