@@ -1,5 +1,2 @@
-# Drone PPO
-
-Contains the ML-Agents Unity Project, including
-both the core plugin (in `Scripts`), as well as a set
-of example environments (in `Examples`).
+# Autonomous Flying of Drone Based on PPO(Simulator)
+Drone Python Autoflight Code using PPO-Pytorch, ML-Agent
